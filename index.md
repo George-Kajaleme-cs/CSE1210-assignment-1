@@ -2,7 +2,7 @@
 
 My URL:
 
-In this assignment you will be creating and customizing a web page grape. 
+In this assignment you will be creating and customizing a web page grape cheetah. 
 
 ## Very Important Information to Read Before Starting on the Assignment
 ### Public Repository
