@@ -11,9 +11,11 @@ Japanese
 127.3 million people
 
 ## Land Area in Square Kilometres
+377,972 km² 
 
 
 ## Currency
+Japaneses Yen
 
 
 
