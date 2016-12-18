@@ -23,3 +23,6 @@ Japaneses Yen
 My URL: https://george-kajaleme-cs.github.io/CSE1210-assignment-1/
 mg
 
+
+[I'm an inline-style link](https://www.google.com)
+
