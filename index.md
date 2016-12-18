@@ -24,5 +24,5 @@ My URL: https://george-kajaleme-cs.github.io/CSE1210-assignment-1/
 mg
 
 
-[I'm an inline-style link](https://www.google.com)
+[See Wikipedia for more information ](https://en.wikipedia.org/wiki/Japan)
 
