@@ -17,7 +17,7 @@ Japanese
 
 
 ## Currency
-Japaneses Yen
+Japanese Yen
 
 
 
